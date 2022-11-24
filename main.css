@@ -1,0 +1,281 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.conteiner
+{
+display: flex;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+   width: 1500px;
+    height: 70px;
+    background-color:  #6B6B6B;;
+}
+.left{
+    margin: 25px 0 25px 0;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.centr{
+    
+    width: 80%;
+    margin: auto;
+    
+}
+.left h4{
+    font-weight: 400;
+    color: #FFFFFF;
+    padding-left: 10px;
+    font-size: 20px;
+}
+.right ul{
+    display: flex;
+    margin: 25px 0 25px 0;
+}
+
+.box
+{ 
+  border-radius:10%;
+    width: 17.72px;
+    height: 20px;
+    background-color: #FFFFFF;
+}
+.right ul{
+
+    list-style: none;
+}
+.right ul li a {
+    color: #FFFFFF;
+    padding: 20px;
+    text-decoration: none;
+    transition: all 0.7s ease;
+}
+.right ul li a:hover {
+    background-color: rgb(99, 95, 95);
+    padding: 10px  0px 0px 0px;
+    cursor: pointer;
+ 
+}
+.left{
+    display: flex;
+
+}
+.secondpart{
+    display: flex;
+    justify-content: space-between;
+    background-color: #EBEBEB;
+    width: 1500px;
+    height:500px;
+}
+.levi h1 {
+    padding-top: 80px;
+    font-weight: 400;
+    font-size: 39px;
+    color: #333333;
+    margin-bottom: 10px;
+}
+.flex2{
+    justify-content: space-between;
+
+    display: flex;
+    
+}
+.levi.style{
+    color: #333333;
+    font-weight: 400;
+    font-size: 17px;
+   
+}
+
+
+.golo{
+    margin-right: 110px;
+}
+.Edit{
+    background-color: #FFFFFF;
+    padding: 12px 8px;
+    width: 70%;
+    margin-top: 30px;
+}
+
+
+.golo img {
+   margin-top: 40px;
+}
+.boton{
+    margin-top: 20px;
+    width: 320px;
+    height: 42px;
+    font-weight: 400;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.5);
+    
+}
+.iconka{
+    width: 1500px;
+    height: 152px;
+    background-color:#D3D3D3;
+    justify-content: space-between;
+    display: flex;
+}
+.threepart{
+    width: 100%;
+    height: 80vh;
+    background-color:#E5E5E5;
+}
+.pravii
+{
+    margin-left:120px;
+}
+.botor{
+    padding-left: 130px;
+}
+
+
+.levii{
+    padding-top:100px;
+}
+.o_1{
+   padding-bottom: 15px;
+   font-weight: 400;
+   font-size: 39px;
+   color: black;
+}
+.fourpart{
+    width: 1500px;
+    height: 806px;
+    background-color: #EBEBEB;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.text  h1{
+
+   margin-bottom: 10px;
+   font-size: 31px;
+   font-weight: 400;
+   color: #333333;
+
+}
+.text p{
+ 
+   font-weight: 400;
+   font-size: 15px;
+   margin-bottom: 40px;
+}
+.Flexbox{
+    font-size: 12px;
+    color: #777777;
+    margin-top: 20px;
+}
+.Layout{
+    font-size: 12px;
+    color: #777777;
+    margin-top: 5px;
+}
+.hutur{
+    width: 226px;
+    height: 60px;
+}
+.surat{
+   
+   margin-top: 20px;
+   text-align: center; 
+
+}
+.conteis{
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 364px;
+    height: 316px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+}
+.colum{
+    background-color: rgb(89, 186, 251);
+    border-radius: 10%;
+}
+.step{
+    text-align: center;
+    padding-top:40px ;
+   
+}
+.surat img{
+    margin: auto;
+  
+}
+.hutur{
+    margin: auto;
+    margin-top: 50px;
+}
+.flex3
+{
+    justify-content: space-between;
+    display: flex;  
+}
+.fivespart{
+    width: 100%;
+    height: 70vh;
+    background-color:#ffff;
+
+}
+.Additional{
+    margin-top: 99px;
+    font-weight: 400;
+    font-size: 32px;
+    color:  #333333;
+}
+.lasts2{
+    width: 20%;
+    height: 40%;
+    padding-top: 41px;
+
+}
+.Margin{
+    margin: 30px 0px 13px 0px;
+    font-weight: 400;
+    font-size: 18px;
+    color: 333333;
+}
+.above{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+}
+.first1 img{
+    filter: drop-shadow(0px 20px 50px rgba(0, 0, 0, 0.2));
+    border-radius: 3px;
+}
+.lasts{
+display: flex;
+justify-content: space-between;
+}
+.navbarк{
+    
+    width: 1500px;
+     height: 110px;
+     background-color:  #6B6B6B;;
+ }
+ .Webflow{
+    font-weight: 400;
+    font-size: 12px;
+    color: #777777;
+ padding-top: 15px;
+ }
+ .toriki{
+ 
+    width: 1500px;
+    height: 50px;
+    
+background: #111111;
+ }
+
